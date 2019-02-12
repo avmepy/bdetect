@@ -1,0 +1,3 @@
+#!/Users/casatka/Desktop/all/github/2019-knu-bdetect/venv2/bin/python
+from numba.pycc import main
+main()

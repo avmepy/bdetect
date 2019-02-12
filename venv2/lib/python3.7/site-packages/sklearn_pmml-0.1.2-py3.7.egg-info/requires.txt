@@ -1,0 +1,7 @@
+pyxb
+scikit-learn
+pandas
+scipy
+pytest
+lxml
+enum34
